@@ -1,1 +1,1 @@
-FROM php:8.2-alpine
+FROM php:8.3-alpine
